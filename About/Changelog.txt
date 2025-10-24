@@ -1,0 +1,4 @@
+# Changelog for FashionRIMsta
+
+1.6.0 - First publish
+

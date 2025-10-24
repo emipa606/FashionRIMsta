@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>FashionRIMsta (Continued)</name>
+  <packageId>Mlie.FashionRIMsta</packageId>
+  <author>spoonshortageftNackblad</author>
+  <url>https://github.com/emipa606/FashionRIMsta</url>
+  <supportedVersions>
+    <li>1.1</li>
+    <li>1.2</li>
+    <li>1.3</li>
+    <li>1.4</li>
+    <li>1.5</li>
+    <li>1.6</li>
+  </supportedVersions>
+  <modDependencies />
+  <loadAfter />
+  <description>[img]https://i.postimg.cc/1X4HT06h/Info.png[/img]
+Update of spoonshortageftNackblads mod https://steamcommunity.com/sharedfiles/filedetails/?id=745193823
+
+[img]https://i.postimg.cc/8csH3dWV/Notice.png[/img]
+
+[table]
+    [tr][td][url=https://discord.gg/h5TY6DA][img]https://i.postimg.cc/T1h9SjbF/Discord.png[/img][/url][/td] [td][url=https://github.com/emipa606/FashionRIMsta][img]https://i.postimg.cc/fykKF7X4/Github.png[/img][/url][/td]
+    [/tr]
+    [tr]
+        [td][img]https://i.postimg.cc/MHXD40RW/Safe-To-Add.png[/img][/td]
+        [td][img]https://i.postimg.cc/sx1c8PSf/Safe-To-Remove.png[/img][/td]
+    [/tr]
+[/table]
+	
+[img]https://i.postimg.cc/hvhrw8xB/Original-Description.png[/img]
+[h1]AFTER 10 YEARS OF MODDING, I HAVE NOW STOPPED, THIS (1.5) WAS THE LAST UPDATE
+[/h1]
+
+[b]Take care everyone, 
+xxx spoon[/b]
+
+
+
+
+
+
+
+[h1]Welcome to FashionRIMsta![/h1]
+
+
+[b]This mod has been made compatible in CE![/b]
+
+ANYONE COMPLAINING ABOUT MILITARY FATIGUES:
+https://imgur.com/a/6JqEqW8
+yes the initial value HAS to be 120% on item but when worn it is VERY SMALL increase!
+(on longest weapon range its an increase of 16% in accuracy.. but the increase gets smaller and smaller the closer the target)
+damage/combat stats get calculated differently!
+
+ChineseSimplified translation thanks to MasterWu
+French translation by qux
+
+This mod [b]adds apparel[/b] to Rimworld
+does [b]not[/b] require a new savegame 
+
+[b]Note:[/b] 
+A lot of the clothes need complex clothing research before being craftable!
+
+
+[b]Including:[/b]
+
+[h1][b]Fur Coat[/b][/h1] A savagely warm fur coat for the savage fashion fan! 
+Wraps the important bits and bobs in dead animal hide and fur, and keeps them safe from freezing winter temperatures. 
+The preferred winter look of the tribals of the Rim!
+[i](Since dead animal fur is heavy to shlep around all day, walking and working too fast is not recommended/possible. --fashionRIMsta, Dept. of Design)[/i]
+
+[h1][b]Fur Hat[/b][/h1] These hats made of fur, are a replica of those worn by the ancient warriors of the 
+Ra-Shain plains of Terra.
+They are the perfect headgear for cold weather protection, both stylish and practical.
+
+[h1][b]Chef Jacket[/b][/h1] Show off your cooking skills with this professional chef jacket!
+Butcher faster!
+Cook better!
+Brew more!
+And impress your fellow colonists with your tasty creations that have a lesser chance of poisoning them!
+
+[h1][b]Chef Hat [/b][/h1]Complete your professional chef look, and forget all those 
+nasty hairs in the soup, with this innovative and practical chef's hat.
+Cook, brew and butcher faster, better and with style!
+ 
+[h1][b]Thermal Pants[/b][/h1] These fashionable thermal pants represent the height of cold-weather apparel innovation! 
+They keep the bottom warm and feel like sitting on a fluffy cloud.
+From the Glitterworlds to the Rim, they are the perfect high-tech choice for cold temperatures.
+
+[h1][b]Cargo Shorts[/b][/h1] Enjoy the summer and show off your legs with these perfectly tailored cargo shorts!
+With no sweating between your legs, even the work goes faster!
+[i](Independent studies have shown, that the aerodynamic and cooling properties of these shorts verifiably enhance walking and working speed. --fashionRIMsta, Dept. of Science)[/i]
+
+[h1][b]Desert Robe[/b][/h1] The desert robe is the perfect apparel for a hot day. 
+It is easy to craft at a crafting spot and allows for a nice, cool breeze around the nether regions, to combat the heat of summer and excessive sweating. 
+It is one of the typical summer clothes worn by the tribal people of the Rim.
+
+[h1][b]Desert Head Wrap[/b][/h1] Are you tired of the sand blowing in your face? 
+The sun baking on your head? 
+Fear no more! The desert head wrap is here! 
+It will protect you from the heat, sand and general unpleasantness of summer. 
+But beware! Since your face is covered, you will sound like a mumbling idiot, so people won't understand you well! 
+
+[h1][b]Scrubs[/b][/h1] These scrubs are the perfect choice for the madically inclined colonist.
+They are sanitary, super blood-resistant and give the appearance of medical professionalism, even without a degree!
+[i](FashionRIMsta does not condone the practice of medicine without a professional degree 
+and is not liable for any and all consequences of malpractice and/or 
+accidents performed while wearing our medical apparel. --fashionRIMsta, Legal Dept.)[/i]
+
+[h1][b]Surgical Mask[/b][/h1] This mask prevents the wearer from being splattered in the face 
+with blood/tissue/brains/fluids while performing any medical tasks.
+Also shields the 'patient' from bacteria and/or dirt coming from the mask-wearer.
+[i](FashionRIMsta does not condone the practice of medicine without a professional degree 
+and is not liable for any and all consequences of malpractice and/or accidents 
+performed while wearing our 
+medical apparel. --fashionRIMsta, Legal Dept.)[/i]
+
+[h1][b]Military Fatigues[/b][/h1] Now also available for civilians, our military fatigues!
+The ideal uniform choice for any charismatic warmonger or charming guerilla fighter!
+Crush your enemies and defend you turf with these highly innovative fatigues.
+[i](ANYONE COMPLAINING ABOUT MILITARY FATIGUES:
+https://imgur.com/a/6JqEqW8
+yes the initial value HAS to be 120% on item but when worn it is VERY SMALL increase!
+(on longest weapon range its an increase of 16% in accuracy.. but the increase gets smaller and smaller the closer the target)
+damage/combat stats get calculated differently!)[/i]
+
+
+[h1][b]Gasmask[/b][/h1] No air? No problem!
+Our new and redesigned gasmask will keep you breathing
+worry-free for at least 50% longer* in any nasty
+and toxic environment!
+[i](*percentage is an estimate. FashioRIMsta is not liabale for any and all 
+injuries resulting from prolonged exposure to toxic air and discourages
+the user from excessive communicating and hunting activities 
+while wearing our product. --FashionRIMsta, Legal Dept.)[/i]
+
+[h1][b]Gardening Vest[/b][/h1] Shriveled corn? Tiny potatoes?
+Put on the gardening vest and show your prowess on the "plowing field" like a Pro!
+Plant your seeds and pluck those flowers, make that black thumb green again!
+
+[h1][b]Construction Jacket[/b][/h1] Brightly colored for perfect visibility, the construction Jacket
+is a must-have addition for every growing colony!
+Let your colonists stand out not only by style 
+but also by the speed they mine and build!
+
+[h1][b]Fine Shirt[/b][/h1] Up your social-game with our business line shirt!
+Whether you want the ladies to drop their panties or traders 
+to drop their prices, no one will be save from your ice-like coolness.
+
+[h1][b]Overalls[/b][/h1] Swing that mop and move those feet! 
+Our "Professional Professionals" product line introduce
+
+[img]https://i.postimg.cc/x8qR7GH9/Reporting-Issues.png[/img]
+[list]
+[*] See if the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Always post your log using the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Log Uploader[/url]
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[*] Use [url=https://github.com/RimSort/RimSort/releases/latest]RimSort[/url] to sort your mods
+[/list]</description>
+  <modVersion IgnoreIfNoMatchingField="True">1.6.0</modVersion>
+</ModMetaData>
