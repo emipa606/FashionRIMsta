@@ -1,12 +1,12 @@
-# [FashionRIMsta (Continued)]()
+# [FashionRIMsta (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=3592569869)
 
-![Image](https://i.postimg.cc/1X4HT06h/Info.png)
+![Image](https://img.litet.net/logos/Info.png)
 
 Update of spoonshortageftNackblads mod https://steamcommunity.com/sharedfiles/filedetails/?id=745193823
 
-![Image](https://i.postimg.cc/8csH3dWV/Notice.png)
+![Image](https://img.litet.net/logos/Notice.png)
 	
-![Image](https://i.postimg.cc/hvhrw8xB/Original-Description.png)
+![Image](https://img.litet.net/logos/OriginalDescription.png)
 
 # AFTER 10 YEARS OF MODDING, I HAVE NOW STOPPED, THIS (1.5) WAS THE LAST UPDATE
 
@@ -147,7 +147,7 @@ to drop their prices, no one will be save from your ice-like coolness.
  Swing that mop and move those feet! 
 Our "Professional Professionals" product line introduce
 
-![Image](https://i.postimg.cc/x8qR7GH9/Reporting-Issues.png)
+![Image](https://img.litet.net/logos/ReportingIssues.png)
 
 
 
@@ -159,4 +159,6 @@ Our "Professional Professionals" product line introduce
 -  If you have the solution for a problem, please post it to the GitHub repository.
 -  Use [RimSort](https://github.com/RimSort/RimSort/releases/latest) to sort your mods
 
+ 
 
+[![Image](https://img.shields.io/github/v/release/emipa606/FashionRIMsta?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/3592569869) | fashion
